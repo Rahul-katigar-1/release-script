@@ -1,2 +1,1 @@
-injistackdev/inji-web:release-1.0.x release-1.0.x
-injistackdev/mimoto:release-1.0.x release-1.0.x
+mosipdev/authentication-service:develop-1764 develop-1764
