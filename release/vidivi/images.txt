@@ -1,1 +1,1 @@
-mosipdev/authentication-service:develop-1764 develop-1764
+injistackdev/uitest-inji-wallet:release-1.0.x release-1.0.x
